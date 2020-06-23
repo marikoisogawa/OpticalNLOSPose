@@ -15,7 +15,7 @@ Please see [data generation code](https://github.com/marikoisogawa/OpticalNLOSPo
 
 
 ## Citation
-If you find our work useful in your research, please consider citing our paper [Optical Non-Line-of-Sight Physics-based 3D Human Pose Estimation](https://marikoisogawa.github.io/project/nlos_pose.html):
+If you find our work useful in your research, please consider citing our paper:
 ```
 @InProceedings{Isogawa_2020_CVPR,
 author = {Isogawa, Mariko and Yuan, Ye and O'Toole, Matthew and Kitani, Kris M.},
