@@ -27,4 +27,4 @@ pages={7013--7022}
 ```
 
 ## License
-The software in this repo is freely available for free non-commercial use. Please see the [license](https://github.com/marikoisogawa/OpticalNLOSPose/LICENSE) for further details.
+The software in this repo is freely available for free non-commercial use. Please see the [license](https://github.com/marikoisogawa/OpticalNLOSPose/blob/master/LICENSE) for further details.
