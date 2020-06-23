@@ -1,4 +1,5 @@
 # Data Generation
+Transient image dataset generation code for our CVPR2020 paper [[Optical Non-Line-of-Sight Physics-based 3D Human Pose Estimation](https://marikoisogawa.github.io/project/nlos_pose.html)]
 
 ## Preparation
 * Please make your dataset folder as follows:
@@ -57,7 +58,7 @@ We have tested our code with Matlab R2019a on macOSX 10.14.6.
 
 ## Citation
 
-If you find our work useful in your research, please consider citing our CVPR2020 paper! For the paper and more information, please check [our project page](https://marikoisogawa.github.io/project/nlos_pose.html).
+If you find our work useful in your research, please consider citing our CVPR2020 paper! For further details, please check [our project page](https://marikoisogawa.github.io/project/nlos_pose.html).
 
 ```
 @InProceedings{Isogawa_2020_CVPR,
