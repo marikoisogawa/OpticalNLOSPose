@@ -11,7 +11,7 @@ Mariko Isogawa, Ye Yuan, Matthew O'Toole, Kris Kitani. CVPR 2020.
 
 
 ## Generate Dataset
-Please see [data generation code](https://github.com/marikoisogawa/OpticalNLOSPose/data_generation) for our proposed transient image data synthesis and augmentation strategy based on depth data that can be transferred to a real-world NLOS imaging system.
+Please see [data generation code](https://github.com/marikoisogawa/OpticalNLOSPose/tree/master/data_generation) for our proposed transient image data synthesis and augmentation strategy based on depth data that can be transferred to a real-world NLOS imaging system.
 
 
 ## Citation
