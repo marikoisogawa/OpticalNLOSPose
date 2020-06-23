@@ -13,6 +13,8 @@ Mariko Isogawa, Ye Yuan, Matthew O'Toole, Kris Kitani. CVPR 2020.
 ## Generate Dataset
 Please see [data generation code](https://github.com/marikoisogawa/OpticalNLOSPose/tree/master/data_generation) for our proposed transient image data synthesis and augmentation strategy based on depth data that can be transferred to a real-world NLOS imaging system.
 
+## Pose Estimation
+We're planning to release a code. For now, please check [this repo](https://github.com/Khrylx/EgoPose) to find RL based pose estimation implementation that we used.
 
 ## Citation
 If you find our work useful in your research, please consider citing our paper:
