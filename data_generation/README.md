@@ -51,7 +51,9 @@ As a real captured data, we used transient measurements provided by [Lindell et 
 
 To use our temporal resampling code (e.g., from 4Hz to 30Hz), you will need an additional dataset. (We are not able to make it publicly available. Please contact me in person.)
 
-Extract the data under ```data_generation/results/```, then run
+Extract the data under ```data_generation/results/```, and make .mex file with AccumSingleSavedTimestamps.cpp.
+
+Then run
 ```data_augmentation_batch('stanford', 0)```. You will find generated results under ```~/datasets/transient/stanford_32_30fps/```.
 
 
