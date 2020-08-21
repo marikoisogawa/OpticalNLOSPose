@@ -49,6 +49,11 @@ Again, you can use any sequences described in data_augmentation_batch.m, and you
 
 As a real captured data, we used transient measurements provided by [Lindell et al.](http://www.computationalimaging.org/publications/nlos-fk/). Please download their [interactive dataset](https://drive.google.com/open?id=1cb5augzU2Gh3M0CpQp3AKlN-C-N0HFI-).
 
+To use our temporal resampling code (e.g., from 4Hz to 30Hz), you will need an additional dataset. (We are not able to make it publicly available. Please contact me in person.)
+
+Extract the data under ```data_generation/results/```, then run
+```data_augmentation_batch('stanford', 0)```. You will find generated results under ```~/datasets/transient/stanford_32_30fps/```.
+
 
 ## Mocap Data
 The corresponded Mocap file (bvh) can be downloaded from [here](https://drive.google.com/file/d/1yyxd9cpRmnvYZuxrfmeQqjfi7ZTidM2Z/view?usp=sharing).
