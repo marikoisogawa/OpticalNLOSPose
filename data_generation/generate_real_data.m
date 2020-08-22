@@ -96,8 +96,7 @@ function generate_real_data(param)
         if enable_process == 1
             dst_transient_image_name_mat = sprintf('%s/%08d.mat', param.dstdir_name, idx1);
             dst_transient_image_name_npy = sprintf('%s/%08d.npy', param.dstdir_name, idx1);
-                command = sprintf('[your python path] utils/mat_to_numpy.py --mat_name %s --npy_name %s --matrix_size 32 --enable_scale1 --dstdir %s --start_ind %d --end_ind %d', ...
-                dst_transient_image_name_mat, dst_transient_image_name_npy, param.dstdir_name, start_ind, end_ind);
+            command = sprintf('[your python path] utils/mat_to_numpy.py --mat_name %s --npy_name %s --matrix_size 32 --enable_scale1 --dstdir %s --start_ind %d --end_ind %d', ... 
                 dst_transient_image_name_mat, dst_transient_image_name_npy, param.dstdir_name, start_ind, end_ind);
             dos(command);       
         end
