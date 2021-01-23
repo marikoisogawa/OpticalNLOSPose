@@ -23,7 +23,7 @@ Training and inference code for our CVPR2020 paper [[Optical Non-Line-of-Sight P
 
 ## Quick Demo
 
-* Download our data and results including pretrained model from this [link](). Place the unzipped datasets folder inside the folder as "~/datasets/", and place results folder as "~/results/".
+* Download our data and results including pretrained model from this [link](https://drive.google.com/file/d/1VA6NLOH8UpfzIxpXTxKiVw4C2jBOhsgM/view?usp=sharing). Place the unzipped datasets folder inside the folder as "~/datasets/", and place results folder as "~/results/".
 
 * Try the following command to visualize the estimated results for in-the-wild Lindel et al's sequence:
 ```python ego_pose/ego_mimic_eval_wild.py --cfg demo_01 --iter 3000 --render --test-feat demo_01 --test-ind 30```
